@@ -1,9 +1,8 @@
 <!doctype html>
 
 <html>
-
 <head>
-<meta charset="UTF-8">
+  <meta charset="UTF-8">
 <title>LOONA Members</title>
 <style>
 td, th { border:ridge 1px #182229; padding: 6px;}
