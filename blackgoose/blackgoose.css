@@ -1,0 +1,115 @@
+body {
+  font-family: sans-serif;
+  font-size: 100%;
+  background-color: #ffe9b6;
+  margin: 0 15% 0;
+}
+header {
+
+}
+
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #bf947e;
+}
+a:visited {
+  color: #ff884c;
+}
+a:focus, a:hover  {
+  color: #ed6e2d;
+  background-color: #ffffff;
+}
+a:active {
+  color: #ed6d2d;
+  background-color: #ffffff;
+}
+h1 {
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  font-weight: normal;
+  text-transform: uppercase;
+  border-bottom: 1px solid #57b1dc;
+  margin-top: 30px;
+}
+h2 {
+  color: #d1633c;
+  font-size: 1em;
+  font-family: 'Raleway', sans-serif;
+}
+dt {
+  font-weight: bold;
+}
+strong {
+  font-style: italic;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+footer { 
+  border-top: 1px solid #57b1dc;
+  text-align: center;
+  padding-top: 1em; 
+} 
+  footer img {
+    width: 40px;
+    height: 40px;
+    margin-left: .5em;
+    margin-right: .5em;
+  }
+  small {
+  color: #999;
+  }
+  img {
+  	max-width: 25%;
+    align-self: center;
+  }
+  p {
+    text-align: center;
+    font-style: italic;
+  }
+  dt {
+    font-weight: bold;
+    color: sienna;
+  }
+  strong {
+    font-style: italic;
+  }
+dt strong {
+  color: tomato;
+  }
+#infor p {
+  font-style: italic;
+  color: gray;
+}
+.price {
+  font-family: Georgia, serif;
+  font-style: italic;
+  color: gray;
+}
+.label {
+  font-weight: bold;
+  font-variant: small-caps;
+  font-style: normal;
+}
+p.warning, sup {
+  font-size: small;
+  color: red;
+}
+  nav {
+    text-align: left;
+  }
+a:hover {
+  color: red;
+  background-color: rgba(255, 255, 255, 0.5);
+}
+a:active {
+  color: orange;
+  background-color: rgba(255, 255, 255, 0.75);
+}
+a:visited {
+  color: #ed6d2d;
+}
